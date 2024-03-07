@@ -54,7 +54,9 @@ so that it can easily be hosted.
 ## FAQs
 <details>
 <summary> Why is Markdown better than a word processor?</summary>
-### Great
+Lightweight markup languges, such as Markdown, are easier to learn and write than word processors, such as 
+Microsoft Word, because it just focuses on the content of the documantatiionk rather than formating the documentation.
+Another advantage is that markdown is cheaper, often of no cost, than word processors which often recquire people to buy liscences.  
  </details>
 
 <details>
