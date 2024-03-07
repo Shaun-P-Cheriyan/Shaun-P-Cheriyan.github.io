@@ -1,6 +1,5 @@
 # Shaun Paraplammoottil Cheriyan 
-#### parapla1@myumanitoba.ca
-#### Github : [https://github.com/Shaun-P-Cheriyan](https://github.com/Shaun-P-Cheriyan)
+#### parapla1@myumanitoba.ca | Github : [https://github.com/Shaun-P-Cheriyan](https://github.com/Shaun-P-Cheriyan)
 
 ### Education and Achievements
 * **B.Sc. Computer Science Major (Co-op)**      2021 - Ongoing
