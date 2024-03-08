@@ -42,10 +42,10 @@ The following are instructions on how to host you resume/portfolio:
 >*  If you want more information on how to create a repository/project, you can check out the following [documentation](https://docs.github.com/en/get-started/start-your-journey/uploading-a-project-to-github)  
 ### 3. Upload a your resume 
 >* Click on the **upload an existing file** link under the quick setup section.
->>![GitHub - upload an existing file.png](..%2F..%2F..%2FDesktop%2FGitHub%20-%20upload%20an%20existing%20file.png)
+>>![GitHub - upload an existing file](https://github.com/Shaun-P-Cheriyan/Shaun-P-Cheriyan.github.io/assets/131394674/3f68c20f-9149-4521-8e35-38756cecc943)
 >> Quick setup 
 >* Click on the **choose your file** link.
->>![GitHub - choose you files.png](..%2F..%2F..%2FDesktop%2FGitHub%20-%20choose%20you%20files.png)
+>>![GitHub - choose you files](https://github.com/Shaun-P-Cheriyan/Shaun-P-Cheriyan.github.io/assets/131394674/aaaedeb5-25fe-4fc7-8af6-a134bf1e6ca6)
 >>choose you files
 >* Select the resume file you want to upload. Resume file must be in Markdown format.
 >* Ensure that the file name is **index.md**. 
@@ -59,42 +59,42 @@ The following are instructions on how to host you resume/portfolio:
 >* If you require more help, you can check out the following [documentation](https://docs.github.com/en/get-started/start-your-journey/uploading-a-project-to-github)
 ### 4. Hosting you resume
 >* You should be in the repository page. It looks like this : 
->> ![GitHub - REpo page.png](..%2F..%2F..%2FDesktop%2FGitHub%20-%20REpo%20page.png)
+>> ![GitHub - REpo page](https://github.com/Shaun-P-Cheriyan/Shaun-P-Cheriyan.github.io/assets/131394674/b174cb90-1c50-4190-b685-c900968a4673)
 >* Click on the **Settings** option in the top.
->>![GitHub - Settings.png](..%2F..%2F..%2FDesktop%2FGitHub%20-%20Settings.png)
+>>![GitHub - Settings](https://github.com/Shaun-P-Cheriyan/Shaun-P-Cheriyan.github.io/assets/131394674/79ce4d4a-0e05-4990-8512-90ac5f917c12)
 >> Setting Option
 >* Click the Pages section from the list of sections on the left. 
->> ![GitHub - Pages.png](..%2F..%2F..%2FDesktop%2FGitHub%20-%20Pages.png)
+>> ![GitHub - Pages](https://github.com/Shaun-P-Cheriyan/Shaun-P-Cheriyan.github.io/assets/131394674/9e3336da-228c-4771-bdb4-abc64f0fec78)
 >> Pages 
 >* Ensure that the **Source** has the  **"Deploy from branch"** option selected.
->> ![GitHub - Source.png](..%2F..%2F..%2FDesktop%2FGitHub%20-%20Source.png)
+>> ![GitHub - Source](https://github.com/Shaun-P-Cheriyan/Shaun-P-Cheriyan.github.io/assets/131394674/82541418-79cd-42c6-9676-a2c6be5f11ad)
 >>
 >> Source
 >* Select the main branch under the branch section if the main branch is not selected by default.
->>![GitHub - Branch.png](..%2F..%2F..%2FDesktop%2FGitHub%20-%20Branch.png)
+>>![GitHub - Branch](https://github.com/Shaun-P-Cheriyan/Shaun-P-Cheriyan.github.io/assets/131394674/bb3a3c7c-679e-4eeb-bb49-7a92de07b0fe)
 >> Branch
 >* Click on the save Button.
 >* With this, GitHub will begin the process of hosting you resume file. It will take a bit of time to host it. 
 >* Select the **"<> Code"** option.
 >* Click on the yellow dot next to the repository name to see the progress.
->> ![GitHub - yello spot.png](..%2F..%2F..%2FDesktop%2FGitHub%20-%20yello%20spot.png)
+>> ![GitHub - yello spot](https://github.com/Shaun-P-Cheriyan/Shaun-P-Cheriyan.github.io/assets/131394674/29e6b44b-a5c8-46c2-99d0-3fd7ab41c943)
 >> See Progress
 ## Set a theme
 >* Now we can add a theme so that the resume can look presentable.
 >* Click on the **Add file** button.
 >* Click the **+ Create new file** button.
->>![GitHub Add File.png](..%2F..%2F..%2FDesktop%2FGitHub%20Add%20File.png)
+>>![GitHub Add File](https://github.com/Shaun-P-Cheriyan/Shaun-P-Cheriyan.github.io/assets/131394674/817cba8a-9ec1-444f-9a99-7d41fdf2da8a)
 >> Add file
 >* Write "**_config.yml**" in  the **Name your file...** space.
 >* Write "**theme: jekyll-theme-minimal**" in the **Enter you contents** space in the text box.
->>![GH - Config file.png](..%2F..%2F..%2FDesktop%2FGH%20-%20Config%20file.png)
+>>![Config file](https://github.com/Shaun-P-Cheriyan/Shaun-P-Cheriyan.github.io/assets/131394674/b198764e-9992-4638-b9fb-dccb29106ce5)
 >> Writing the file
 >* Click the **Commit changes...** on the right side. This will enable a Commit changes pop up.
 >* Click the **Commit changes** button at the bottom right of the pop up.
 >* Now wait for some time until the site is built.
 >* You can access the site by going to **username.github.io**
 >* It should look like the following : 
->![Resume Gif.gif](..%2F..%2F..%2FDesktop%2FResume%20Gif.gif)
+>![Resume Gif](https://github.com/Shaun-P-Cheriyan/Shaun-P-Cheriyan.github.io/assets/131394674/a724435d-6be7-4f39-ad19-e0eaa1d6ed1e)
 >```
 > Etter suggests writers to take time to customize their pages as this will help in differentiating you content for the others.
 >```
