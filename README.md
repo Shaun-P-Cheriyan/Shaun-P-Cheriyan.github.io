@@ -61,6 +61,7 @@ Another advantage is that markdown is cheaper, often of no cost, than word proce
 
 <details>
 <summary> Why is my resume not showing up?</summary>
+ 
  ### You can add a header
 
 You can add text within a collapsed section. 
