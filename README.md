@@ -25,14 +25,14 @@ The following are instructions on how to host you resume/portfolio:
 >* If you require more help, you can check out the following [documentation](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account).
 ### 2. Create a repository
 >* After signing in, you will now be at the dashboard page. It should look like this :
->>![Dashboard GitHub.png](..%2F..%2F..%2FDesktop%2FDashboard%20GitHub.png)
+>><img width="1265" alt="Dashboard GitHub" src="https://github.com/Shaun-P-Cheriyan/Shaun-P-Cheriyan.github.io/assets/131394674/486acca5-7e5a-4f7b-b1aa-65b239feba6e">
 >>Dashboard
 >* Click the GitHub logo on the top left corner, next to the page title if you are in another page. You will be brought to the dashboard page.
->> ![GitHub Logo.png](..%2F..%2F..%2FDesktop%2FGitHub%20Logo.png)
+>> ![GitHub Logo](https://github.com/Shaun-P-Cheriyan/Shaun-P-Cheriyan.github.io/assets/131394674/6d084376-084e-465a-8849-2d94d4ff7c23)
 >>
 >> GitHub Logo
 >* Go to the **Start a new repository for [username]** section. 
->> ![GitHub - Create a repo.png](..%2F..%2F..%2FDesktop%2FGitHub%20-%20Create%20a%20repo.png)
+>> ![GitHub - Create a repo](https://github.com/Shaun-P-Cheriyan/Shaun-P-Cheriyan.github.io/assets/131394674/51e01e41-d68e-4881-9d18-8a5d76df4bac)
 >>
 >>Start a new repository for [username]
 >* Enter your repository name.
