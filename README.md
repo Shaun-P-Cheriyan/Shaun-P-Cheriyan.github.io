@@ -62,7 +62,7 @@ The following are instructions on how to host you resume/portfolio:
 >> ![GitHub - REpo page](https://github.com/Shaun-P-Cheriyan/Shaun-P-Cheriyan.github.io/assets/131394674/b174cb90-1c50-4190-b685-c900968a4673)
 >* Click on the **Settings** option in the top.
 >>![GitHub - Settings](https://github.com/Shaun-P-Cheriyan/Shaun-P-Cheriyan.github.io/assets/131394674/79ce4d4a-0e05-4990-8512-90ac5f917c12)
->> Setting Option
+>> Settings Option
 >* Click the Pages section from the list of sections on the left. 
 >> ![GitHub - Pages](https://github.com/Shaun-P-Cheriyan/Shaun-P-Cheriyan.github.io/assets/131394674/9e3336da-228c-4771-bdb4-abc64f0fec78)
 >> Pages 
